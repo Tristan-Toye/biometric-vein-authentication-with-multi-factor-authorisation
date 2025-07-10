@@ -176,7 +176,6 @@ This project is developed for educational purposes at KU Leuven. All rights rese
 - **Institution**: KU Leuven
 - **Course**: P&O3 (Second Bachelor)
 - **Project**: Biometric Entrance IDentiGate
-
 ---
 
 **Note**: This system is designed for high-security environments and includes multiple layers of authentication and monitoring. Ensure proper security protocols are followed during deployment and operation.
